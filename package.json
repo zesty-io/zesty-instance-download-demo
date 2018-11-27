@@ -1,0 +1,19 @@
+{
+  "name": "zesty-instance-download",
+  "version": "0.0.1",
+  "description": "Zesty.io Instance File Download Code",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zesty.io",
+  "license": "MIT",
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "zestyio-api-wrapper": "^0.1.5"
+  },
+  "engines": {
+    "node": ">=8.9.4"
+  }
+}
