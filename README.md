@@ -28,12 +28,12 @@ These items can be obtained from the "External Editing" tab in your Zesty.io ins
 To get started:
 
 ```
-TODO git clone this repo...
-cd zesty-instance-download
-npm install
-export ZESTY_INSTANCE_ZUID=<your instance ZUID>
-export ZESTY_ACCESS_TOKEN=<your access token>
-npm start
+$ git clone https://github.com/zesty-io/zesty-instance-download-demo.git
+$ cd zesty-instance-download-demo
+$ npm install
+$ export ZESTY_INSTANCE_ZUID=<your instance ZUID>
+$ export ZESTY_ACCESS_TOKEN=<your access token>
+$ npm start
 ```
 
 ## Results
